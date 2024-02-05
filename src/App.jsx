@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "./components/Navbar";
+import Navbar from "./Components/Navbar";
 import Home from "./pages/Home/Home";
 import Event from "./pages/Events/Event";
 import Projects from "./pages/Projects/Projects";
