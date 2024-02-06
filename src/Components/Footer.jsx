@@ -51,9 +51,9 @@ const Footer = () => {
             />
           </div>
 
-          <Link to="/Codev" className="link logo_img_">
+          <Link to="/CDC" className="link logo_img_">
             <img src={logo} alt="logo" />
-            <h1 className="text-center logo">Codev Club</h1>
+            <h1 className="text-center logo">CDC</h1>
           </Link>
 
           <div className="d-flex justify-content-center">
@@ -89,7 +89,7 @@ const Footer = () => {
         </div>
         <div className="bottom_footer">
           <h5 className="text-center">
-            Designed with <span role="img">❤️</span> by Codev Community mmmut
+            Designed with <span role="img">❤️</span> by CDC Community mmmut
           </h5>
         </div>
       </div>

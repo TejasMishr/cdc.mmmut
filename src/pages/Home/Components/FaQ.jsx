@@ -18,12 +18,12 @@ const FaQ = () => {
             <AccordionItem>
               <AccordionItemHeading className="_accordion__button">
                 <AccordionItemButton>
-                  I am not from CSE branch, Can I join Codev Club ?
+                  I am not from CSE branch, Can I join CDC Club ?
                 </AccordionItemButton>
               </AccordionItemHeading>
               <AccordionItemPanel>
                 <p className="accordion-content">
-                  Any branch student can join Codev Club there is no restriction
+                  Any branch student can join CDC Club there is no restriction
                   to join the club
                 </p>
               </AccordionItemPanel>
@@ -36,8 +36,8 @@ const FaQ = () => {
               </AccordionItemHeading>
               <AccordionItemPanel>
                 <p className="accordion-content">
-                  Students from any year can join Codev Club and contribute to
-                  the club
+                  Students from any year can join CDC Club and contribute to the
+                  club
                 </p>
               </AccordionItemPanel>
             </AccordionItem>
@@ -45,7 +45,7 @@ const FaQ = () => {
               <AccordionItemHeading>
                 <AccordionItemButton>
                   I dont have much technical knowledge but I would like to help
-                  Codeev Club
+                  Coders anf devlopers Club
                 </AccordionItemButton>
               </AccordionItemHeading>
               <AccordionItemPanel>

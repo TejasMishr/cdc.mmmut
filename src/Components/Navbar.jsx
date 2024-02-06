@@ -30,8 +30,7 @@ export default function Navbar() {
               className="navbar-logo"
               onClick={closeMoblileMenu}
             >
-              <img className="logo_img" src={logo} alt="Codev logo" /> Codev
-              Club
+              <img className="logo_img" src={logo} alt="CDC" /> CDC
             </NavLink>
 
             <div className="menu-icon" onClick={handleClick}>
@@ -62,7 +61,7 @@ export default function Navbar() {
                   Events
                 </NavLink>
               </li>
-              <li className="nav-item">
+              {/* <li className="nav-item">
                 <NavLink
                   exact
                   activeClassName="active_menu"
@@ -72,7 +71,7 @@ export default function Navbar() {
                 >
                   Projects
                 </NavLink>
-              </li>
+              </li> */}
               <li className="nav-item">
                 <NavLink
                   exact

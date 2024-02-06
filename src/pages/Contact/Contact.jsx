@@ -54,7 +54,7 @@ export default function Contact() {
 
               <div className="_heading">
                 <h2>Email</h2>
-                <p>codev@mmmut.ac.com</p>
+                <p>CDC@mmmut.ac.com</p>
               </div>
             </div>
 

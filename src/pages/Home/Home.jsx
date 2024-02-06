@@ -46,7 +46,7 @@ export default function Home() {
           </div>
         </div>
         {/* Technologies section ended */} {/* recent_project section */}{" "}
-        <div className="text-center recent_project">
+        {/* <div className="text-center recent_project">
           {" "}
           <TitleCenter {...TitleCenter2} />
           <p
@@ -56,7 +56,7 @@ export default function Home() {
           >
             No Projects Available Right Now
           </p>
-        </div>
+        </div> */}
         {/* recent_project section ended */}{" "}
         <div className="form_bg_color idea_container">
           {" "}
