@@ -1,7 +1,7 @@
 import React from "react";
 import Footer from "../../Components/Footer";
 import Form from "../Home/Components/Form";
-// import Contact_Image from "../../assets/images/Feedback.svg";
+
 import { FiAtSign } from "react-icons/fi";
 import { MdLocationOn } from "react-icons/md";
 import { Link } from "react-router-dom";
@@ -9,6 +9,9 @@ import { Link } from "react-router-dom";
 import "../Home/Home.css";
 import "./Contact.css";
 import Button from "../Home/Components/Button";
+
+const Contact_Image =
+  "https://firebasestorage.googleapis.com/v0/b/evna-1c728.appspot.com/o/img%2Fcommunity.png?alt=media&token=3fc93805-da1d-4a16-8a1d-34428bc4e5ad";
 
 export default function Contact() {
   return (
@@ -23,7 +26,7 @@ export default function Contact() {
 
           <div className="row">
             <div className="col-lg-6">
-              {/* <img src={Contact_Image} alt="" /> */}
+              <img src={Contact_Image} alt="" />
             </div>
 
             <div className="col-lg-6 col-md-12">
