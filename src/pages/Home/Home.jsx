@@ -1,7 +1,7 @@
 import React from "react";
 import HeroSection from "../../Components/HeroSection";
 import TitleCenter from "./Components/TitleCenter";
-import Card from "./components/Card";
+import Card from "../Home/Components/Card";
 import Card_Details from "./data/Card_Details";
 import { homeObjOne, homeObjTwo, homeObjThree, homeObjFour } from "./data/Data";
 import {
@@ -9,7 +9,7 @@ import {
   TitleCenter2,
   TitleCenter3,
 } from "./data/TitleCenterData";
-import Form from "../Home/components/Form";
+import Form from "../Home/Components/Form";
 import ideaImage from "../../assets/images/ideaImage.svg";
 import Button from "./Components/Button";
 import FaQ from "./Components/FaQ";

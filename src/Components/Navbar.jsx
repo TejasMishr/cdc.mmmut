@@ -26,11 +26,12 @@ export default function Navbar() {
         <div className="navbar">
           <div className="navbar-container container">
             <NavLink
-              to="/GDSC-BIET-Website/"
+              to="/Codersclub.mmmut/"
               className="navbar-logo"
               onClick={closeMoblileMenu}
             >
-              <img className="logo_img" src={logo} alt="GDSC logo" /> GDSC BIET
+              <img className="logo_img" src={logo} alt="Codev logo" /> Codev
+              Club
             </NavLink>
 
             <div className="menu-icon" onClick={handleClick}>
@@ -42,7 +43,7 @@ export default function Navbar() {
                 <NavLink
                   exact
                   activeClassName="active_menu"
-                  to="/GDSC-BIET-Website/"
+                  to="/codersclub.mmmut/"
                   className="nav-links"
                   onClick={closeMoblileMenu}
                   aria-current="page"
@@ -54,7 +55,7 @@ export default function Navbar() {
                 <NavLink
                   exact
                   activeClassName="active_menu"
-                  to="/GDSC-BIET-Website/event"
+                  to="/codersclub.mmmut/event"
                   className="nav-links"
                   onClick={closeMoblileMenu}
                 >
@@ -65,7 +66,7 @@ export default function Navbar() {
                 <NavLink
                   exact
                   activeClassName="active_menu"
-                  to="/GDSC-BIET-Website/projects"
+                  to="/codersclub.mmmut/projects"
                   className="nav-links"
                   onClick={closeMoblileMenu}
                 >
@@ -76,7 +77,7 @@ export default function Navbar() {
                 <NavLink
                   exact
                   activeClassName="active_menu"
-                  to="/GDSC-BIET-Website/team"
+                  to="/codersclub.mmmut/team"
                   className="nav-links"
                   onClick={closeMoblileMenu}
                 >
@@ -87,7 +88,7 @@ export default function Navbar() {
                 <NavLink
                   exact
                   activeClassName="active_menu"
-                  to="/GDSC-BIET-Website/contact"
+                  to="/codersclub.mmmut/contact"
                   className="nav-links"
                   onClick={closeMoblileMenu}
                 >

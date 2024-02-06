@@ -1,5 +1,5 @@
 import React from "react";
-import "../components/TitleCenter.css";
+import "./TitleCenter.css";
 
 export default function TitleCenter({ title, description }) {
   return (

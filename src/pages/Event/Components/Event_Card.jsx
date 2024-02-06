@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Button from "../../Home/components/Button";
+import Button from "../../Home/Components/Button";
 import { Link } from "react-router-dom";
 import "../Event.css";
 

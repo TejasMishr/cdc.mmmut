@@ -1,5 +1,5 @@
 import React from "react";
-import Events_Card from "./components/Events_Card";
+import Events_Card from "./Components/Event_Card";
 import EventsData from "./data/EventsData";
 import Footer from "../../Components/Footer";
 

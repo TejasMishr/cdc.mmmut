@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { FaFacebookF, FaTwitter, FaInstagram, FaGithub } from "react-icons/fa";
 import logo from "../assets/logo.png";
 
-import Button from "../pages/Home/components/Button";
+import Button from "../pages/Home/Components/Button";
 import "../pages/Home/Home.css";
 
 const Footer = () => {
@@ -48,9 +48,9 @@ const Footer = () => {
             />
           </div>
 
-          <Link to="/GDSC-BIET-Website" className="link logo_img_">
+          <Link to="/Codev" className="link logo_img_">
             <img src={logo} alt="logo" />
-            <h1 className="text-center logo">GDSC BIET</h1>
+            <h1 className="text-center logo">Codev Club</h1>
           </Link>
 
           <div className="d-flex justify-content-center">
