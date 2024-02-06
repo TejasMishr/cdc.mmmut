@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cdc.mmmut/static/css/main.f71c45b6.css",
-    "main.js": "/cdc.mmmut/static/js/main.6c3d4065.js",
+    "main.js": "/cdc.mmmut/static/js/main.45452691.js",
     "static/media/logo.png": "/cdc.mmmut/static/media/logo.b558ead2427a73dbc9d4.png",
     "index.html": "/cdc.mmmut/index.html",
     "main.f71c45b6.css.map": "/cdc.mmmut/static/css/main.f71c45b6.css.map",
-    "main.6c3d4065.js.map": "/cdc.mmmut/static/js/main.6c3d4065.js.map"
+    "main.45452691.js.map": "/cdc.mmmut/static/js/main.45452691.js.map"
   },
   "entrypoints": [
     "static/css/main.f71c45b6.css",
-    "static/js/main.6c3d4065.js"
+    "static/js/main.45452691.js"
   ]
 }
