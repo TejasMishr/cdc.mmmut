@@ -22,12 +22,15 @@ const Footer = () => {
     <>
       <div className="container-fluid footer_bg">
         <div className="container footer">
-          <h2 className="text-center">Subscribe to our newsletter</h2>
+          <h2 className="text-center">
+            Become a Member <br></br>{" "}
+            <span class="subscribe">Subscribe Now</span>
+          </h2>
           <div className="border_animation"></div>
           <p className="text-center">
-            By subscribing to the newsletter, you will be able to get constant
+            By subscribing to the Community, you will be able to get constant
             update regarding <br />
-            workshops, events from us
+            workshops, events Conducted by us.
           </p>
 
           <div className="col-lg-12 col-sm-12 custome_form">

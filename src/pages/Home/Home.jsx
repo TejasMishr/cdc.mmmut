@@ -10,13 +10,14 @@ import {
   TitleCenter3,
 } from "./data/TitleCenterData";
 import Form from "../Home/Components/Form";
-import ideaImage from "../../assets/images/ideaImage.svg";
+
 import Button from "./Components/Button";
 import FaQ from "./Components/FaQ";
 import Footer from "../../Components/Footer";
 
 import "../Home/Home.css";
-
+const ideaImage =
+  "https://firebasestorage.googleapis.com/v0/b/evna-1c728.appspot.com/o/img%2Fcommunity.png?alt=media&token=3fc93805-da1d-4a16-8a1d-34428bc4e5ad";
 export default function Home() {
   return (
     <>
