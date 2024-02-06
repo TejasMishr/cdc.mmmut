@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
 import { FaBars, FaTimes } from "react-icons/fa";
 import { IconContext } from "react-icons/lib";
-import logo from "../assets/dsc_logo.png";
+import logo from "../assets/logo.png";
 import "./Navbar.css";
 
 export default function Navbar() {

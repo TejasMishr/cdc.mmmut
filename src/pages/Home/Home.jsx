@@ -11,7 +11,7 @@ import {
 } from "./data/TitleCenterData";
 import Form from "../Home/components/Form";
 import ideaImage from "../../assets/images/ideaImage.svg";
-import Button from "./components/Button";
+import Button from "./Components/Button";
 import FaQ from "./Components/FaQ";
 import Footer from "../../Components/Footer";
 
