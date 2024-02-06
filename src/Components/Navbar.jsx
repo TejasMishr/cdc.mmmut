@@ -26,7 +26,7 @@ export default function Navbar() {
         <div className="navbar">
           <div className="navbar-container container">
             <NavLink
-              to="/Codersclub.mmmut/"
+              to="/cdc.mmmut/"
               className="navbar-logo"
               onClick={closeMoblileMenu}
             >
@@ -42,7 +42,7 @@ export default function Navbar() {
                 <NavLink
                   exact
                   activeClassName="active_menu"
-                  to="/codersclub.mmmut/"
+                  to="/cdc.mmmut/"
                   className="nav-links"
                   onClick={closeMoblileMenu}
                   aria-current="page"
@@ -54,7 +54,7 @@ export default function Navbar() {
                 <NavLink
                   exact
                   activeClassName="active_menu"
-                  to="/codersclub.mmmut/event"
+                  to="/cdc.mmmut/event"
                   className="nav-links"
                   onClick={closeMoblileMenu}
                 >
@@ -65,7 +65,7 @@ export default function Navbar() {
                 <NavLink
                   exact
                   activeClassName="active_menu"
-                  to="/codersclub.mmmut/projects"
+                  to="/cdc.mmmut/projects"
                   className="nav-links"
                   onClick={closeMoblileMenu}
                 >
@@ -76,7 +76,7 @@ export default function Navbar() {
                 <NavLink
                   exact
                   activeClassName="active_menu"
-                  to="/codersclub.mmmut/team"
+                  to="/cdc.mmmut/team"
                   className="nav-links"
                   onClick={closeMoblileMenu}
                 >
@@ -87,7 +87,7 @@ export default function Navbar() {
                 <NavLink
                   exact
                   activeClassName="active_menu"
-                  to="/codersclub.mmmut/contact"
+                  to="/cdc.mmmut/contact"
                   className="nav-links"
                   onClick={closeMoblileMenu}
                 >

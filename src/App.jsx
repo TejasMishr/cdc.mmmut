@@ -20,12 +20,12 @@ export default function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path="/codersclub.mmmut" exact component={Home} />
-          <Route path="/codersclub.mmmut/event" exact component={Event} />
-          {/* <Route path="/codersclub.mmmut/Projects" exact ={Projects} /> */}
-          <Route path="/codersclub.mmmut/team" exact component={Team} />
-          <Route path="/codersclub.mmmut/contact" exact component={Contact} />
-          <Redirect to="/codersclub.mmmut/" />
+          <Route path="/cdc.mmmut" exact component={Home} />
+          <Route path="/cdc.mmmut/event" exact component={Event} />
+          {/* <Route path="/cdc.mmmut/Projects" exact ={Projects} /> */}
+          <Route path="/cdc.mmmut/team" exact component={Team} />
+          <Route path="/cdc.mmmut/contact" exact component={Contact} />
+          <Redirect to="/cdc.mmmut/" />
         </Switch>
       </Router>
     </>
