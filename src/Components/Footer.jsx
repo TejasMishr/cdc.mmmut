@@ -88,9 +88,9 @@ const Footer = () => {
           </div>
         </div>
         <div className="bottom_footer">
-          <h5 className="text-center">
-            Designed with <span role="img">❤️</span> by CDC Community mmmut
-          </h5>
+          {/* <h5 className="text-center">
+            //Slogan
+          </h5> */}
         </div>
       </div>
     </>
