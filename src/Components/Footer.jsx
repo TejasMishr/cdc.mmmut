@@ -51,9 +51,9 @@ const Footer = () => {
             />
           </div>
 
-          <Link to="/CDC" className="link logo_img_">
+          <Link to="/Coders & Devlopers Club" className="link logo_img_">
             <img src={logo} alt="logo" />
-            <h1 className="text-center logo">CDC</h1>
+            <h1 className="text-center logo">Coders & Devlopers Club</h1>
           </Link>
 
           <div className="d-flex justify-content-center">

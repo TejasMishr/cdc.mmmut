@@ -18,13 +18,14 @@ const FaQ = () => {
             <AccordionItem>
               <AccordionItemHeading className="_accordion__button">
                 <AccordionItemButton>
-                  I am not from CSE branch, Can I join CDC Club ?
+                  I am not from CSE branch, Can I join Coders & Devlopers Club
+                  Club ?
                 </AccordionItemButton>
               </AccordionItemHeading>
               <AccordionItemPanel>
                 <p className="accordion-content">
-                  Any branch student can join CDC Club there is no restriction
-                  to join the club
+                  Any branch student can join Coders & Devlopers Club Club there
+                  is no restriction to join the club
                 </p>
               </AccordionItemPanel>
             </AccordionItem>
@@ -36,8 +37,8 @@ const FaQ = () => {
               </AccordionItemHeading>
               <AccordionItemPanel>
                 <p className="accordion-content">
-                  Students from any year can join CDC Club and contribute to the
-                  club
+                  Students from any year can join Coders & Devlopers Club Club
+                  and contribute to the club
                 </p>
               </AccordionItemPanel>
             </AccordionItem>

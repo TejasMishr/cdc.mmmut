@@ -13,14 +13,14 @@ export const homeObjOne = {
   headline: "Coders & Devlopers Club",
   description:
     "Coders And Devlopers Club is a vibrant university-based community that brings together students passionate about coding and development. Welcoming individuals from diverse undergraduate and graduate programs, the club provides a supportive space for those eager to enhance their skills and evolve as developers.",
-  buttonLabel: "JOIN CDC MMMUT",
+  buttonLabel: "JOIN Coders & Devlopers Club MMMUT",
   imgStart: "",
   img: img1,
   alt: "Coding Community",
 };
 
 export const homeObjTwo = {
-  headline: "Connect With CDC",
+  headline: "Connect With Coders & Devlopers Club",
   description:
     "Connect with fellow campus enthusiasts who share a common interest in similar projects and technologies. Our inclusive community warmly welcomes individuals with diverse technical backgrounds and from various branches of study.",
   imgStart: "start",
@@ -29,7 +29,7 @@ export const homeObjTwo = {
 };
 
 export const homeObjThree = {
-  headline: "Why Join CDC",
+  headline: "Why Join Coders & Devlopers Club",
   description:
     "Embark on a journey of discovery across a diverse array of technical subjects, where mastery is achieved through immersive workshops, hands-on training, and the creative pursuit of building impactful projects",
   imgStart: "",
